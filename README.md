@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning React and Cloud computing  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to DJANGO REST stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces and smiling is my weakness  
+- ⚡ Fun fact: I use spaces over tabs and smiling is my weakness  
   
 
 <br/>  
