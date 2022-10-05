@@ -92,7 +92,7 @@
 
 
 ## My Budges
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AnitaKahenya/AnitaKahenya/blob/master/devcard.svg" width="400" alt="anita-that-chiq's Dev Card"/></a>
+<a href="https://app.daily.dev/AnitaKahenya"><img src="https://api.daily.dev/devcards/08f85aaf9d78495f955b9c3290e027e3.png?r=gvm" width="400" alt="anita-that-chiq's Dev Card"/></a>
 
 
 ## Connect with me  
