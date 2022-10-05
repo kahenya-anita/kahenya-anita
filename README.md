@@ -91,6 +91,10 @@
 <br/>  
 
 
+## My Budges
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kahenya-anita/kahenya-anita/blob/master/devcard.svg" width="400" alt="Anita-that-chiq's  Dev Card"/></a>
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/kahenya-anita" target="_blank">
