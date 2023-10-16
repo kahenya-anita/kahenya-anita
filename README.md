@@ -9,10 +9,10 @@
 - 🔭 I’m currently working to take my frontend skills to the next level.  
   
 
-- 🌱 I’m currently learning Typescript React and growing my DevRel knowledge base   
+- 🌱 I’m currently learning React and Cloud computing  
   
 
-- ❓ Ask me about anything related to the DJANGO REST stack and related technologies  
+- ❓ Ask me about anything related to DJANGO REST stack and related technologies  
   
 
 - ⚡ Fun fact: I use spaces over tabs and smiling is my weakness  
