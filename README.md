@@ -9,8 +9,9 @@
 - 🔭 I’m currently working to take my frontend skills to the next level.  
   
 
-- 🌱 I’m currently learning React and Cloud computing  
-  
+- 🌱 I’m currently learning Typescript React and growing my DevRel knowledge base   
+
+
 
 - ❓ Ask me about anything related to DJANGO REST stack and related technologies  
   
